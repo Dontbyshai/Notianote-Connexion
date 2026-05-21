@@ -1,7 +1,7 @@
 # 🪐 NotiaNote Connexion (Universal School Platforms Connector)
 
 [![Website](https://img.shields.io/badge/Website-notianote.fr-8B5CF6?style=for-the-badge)](https://notianote.fr)
-[![App Store](https://img.shields.io/badge/App_Store-iOS-007AFF?style=for-the-badge&logo=apple)](https://apps.apple.com/fr/app/notianote/id6739073850)
+[![App Store](https://img.shields.io/badge/App_Store-iOS-007AFF?style=for-the-badge&logo=apple)](https://apps.apple.com/fr/app/notianote/id6758548199)
 [![Play Store](https://img.shields.io/badge/Play_Store-Android-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.dontbyshai.notianote)
 
 Bienvenue sur le dépôt officiel **NotiaNote Connexion** ! 
