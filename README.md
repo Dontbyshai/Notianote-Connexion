@@ -11,7 +11,7 @@ Ce projet héberge la logique de connexion (Drivers) universelle et publique uti
 ---
 
 ## 📱 À propos de NotiaNote
-**NotiaNote** est l'application mobile de référence pour les élèves et les parents d'élèves. Conçue avec un design moderne, premium et personnalisable (thèmes, widgets, icônes d'applications), elle réunit au même endroit toutes les informations académiques indispensables :
+**NotiaNote** est l'application mobile de référence pour les élèves et les parents d'élèves. Conçue avec un design moderne, premium et personnalisable, elle réunit au même endroit toutes les informations académiques indispensables :
 * 📊 **Suivi des notes** avec statistiques avancées (évolution, moyennes de classe, répartition).
 * 📅 **Emploi du temps interactif** dynamique.
 * 📝 **Cahier de textes & Devoirs** pour ne jamais rien oublier.
@@ -76,6 +76,6 @@ async function main() {
 ---
 
 ## 📄 Licence
-Ce projet est open-source et destiné à être partagé avec les développeurs de la communauté éducative pour faciliter les connexions aux plateformes scolaires.
+Ce projet est sous licence **MIT**. Vous êtes libre de l'utiliser, de le modifier et de le distribuer, tant pour des projets open-source que commerciaux.
 
 Propulsé par **Shai's Company**.
